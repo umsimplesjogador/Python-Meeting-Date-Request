@@ -20,7 +20,7 @@ def main(page: ft.Page):
             font_family="Montserrat"
         )    
     envelope_img = ft.Image(
-                    src=f"https://github.com/umsimplesjogador/Python-Date-Request/blob/main/envelope.png",
+                    src=f"https://github.com/umsimplesjogador/Python-Meeting-Date-Request/blob/main/envelope.png",
                     width=200,
                     height=200
     )
